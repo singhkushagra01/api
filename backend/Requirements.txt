@@ -1,0 +1,4 @@
+embedchain
+fastapi
+requests
+pydantic
